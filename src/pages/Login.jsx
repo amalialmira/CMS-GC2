@@ -38,7 +38,7 @@ const Login = () => {
                 <div className="min-h-screen flex fle-col items-center justify-center py-6 px-4">
                     <div className="grid md:grid-cols-2 items-center gap-4 max-w-6xl w-full">
                         <div className="max-md:mt-8">
-                            <img src="../../public/Untitled design-2.png" className="w-full h-full max-md:w-4/5 mx-auto block object-cover" alt="Dining Experience" />
+                            <img src="../assets/Untitled design-2.png" className="w-full h-full max-md:w-4/5 mx-auto block object-cover" alt="Dining Experience" />
                         </div>
 
                         <div className="border-2 border-black rounded-lg p-6 max-w-md max-md:mx-auto">
